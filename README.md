@@ -21,7 +21,7 @@ const PrivateKeyUser1 = "USER_1_WALLET_PRIVATE_KEY";
 const PrivateKeyUser2 = "USER_2_WALLET_PRIVATE_KEY";
 ```
 
-Then, send a small amount of TFUEL (e.g. 50 TFUEL) to each of the above wallets. 
+Then, send a small amount of TFUEL (e.g. 50 TFUEL) to each of the above wallets on the Theta Mainnet. 
 
 ### Run tests
 ```
